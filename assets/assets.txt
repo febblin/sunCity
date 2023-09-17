@@ -1,6 +1,6 @@
 d:assets:assets:0:application/unknown:1
 d:shaders:shaders:0:application/unknown:1
-t:shaders/sunCity.glsl:shaders/sunCity-d112bb063bb9cdd6da23c1531782e0dc.glsl:1755:application/unknown:1
+t:shaders/sunCity.glsl:shaders/sunCity-b6779dba06d720b596e1e7e3ddc123c4.glsl:1710:application/unknown:1
 b:shaders/vertex.sh:shaders/vertex-0f99233b64f04afbbc1dc07ff21581bb.sh:1772:application/x-shar:1
 i:волк.jpg:волк-6aff8ad49873bebba0689cf14de8c7e2.jpg:348028:image/jpeg:1
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:particles.fragment-b90524761fdf09b0a836056d590c30b8.glsl:820:application/unknown:1
